@@ -1,7 +1,7 @@
 # ABOUT THE PROJECT
 
 This is a small project to continue learning about state and animations.
-We can find two Files in the App.jsx file. One in which the carousel style is made from scratch.
+We can find two Files in the App.jsx file. One in which the carousel style is made from scratch. While the other is created with the help of libraries.
 
 ## ABOUT CAROUSEL.JSX
 
